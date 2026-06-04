@@ -27,7 +27,7 @@ function App() {
       <aside className="weather-panel">
         <div className="app-brand">
           <span className="app-brand-icon">🌤️</span>
-          <h1>Weather</h1>
+          <h1>Weather RN</h1>
           <span className="app-brand-badge">Live</span>
         </div>
 
